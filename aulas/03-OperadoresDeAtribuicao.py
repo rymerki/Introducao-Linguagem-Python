@@ -2,9 +2,6 @@
 # Atribuicao eh a forma em que se define um valor referente a determinada variavel
 
 # Exemplo
-from builtins import print
-
-from setuptools.command.alias import alias
 
 x = 10
 y = "Teste"
@@ -22,4 +19,3 @@ print(f"Olá, meu nome é {nome} {sobrenome}, tenho {idade} anos.")
 
 altura = 1.70
 print(altura)
-
