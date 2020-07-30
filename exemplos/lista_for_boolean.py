@@ -9,7 +9,7 @@ def verifica_idades(idades, permissoes):
             permissoes.append(False)
 
 verifica_idades(idades, permissoes)
-print(permissoes[0:])
+print(permissoes)
 
 for permissao in permissoes:
     if permissao == True:
