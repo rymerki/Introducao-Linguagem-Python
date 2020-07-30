@@ -15,8 +15,8 @@ print(len(notas_matematica))
 x = list(range(1, 9))
 y = notas_matematica
 
-print(x[0:])
-print(y[0:])
+print(x)
+print(y)
 
 plt.plot(x, y, marker='o')
 plt.title('Notas de matemática')
