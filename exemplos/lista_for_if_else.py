@@ -3,8 +3,8 @@
 idades = [10, 11, 15, 18, 30, 50]
 
 print(type(idades))
+print(idades)
 print(idades[3])
-print(idades[0:])
 print(idades[-1])
 print(idades[:4])
 
